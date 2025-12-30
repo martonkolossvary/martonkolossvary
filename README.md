@@ -8,6 +8,8 @@ RIA: Radiomics image analysis toolbox for 2D and 3D radiological images. [![](ht
 
 parseRPDR: Parse and Manipulate Text queries for the Research Patient Data Registry (‘RPDR’) medical datalake of Mass General Brigham Hospitals. [![](https://cranlogs.r-pkg.org/badges/grand-total/parseRPDR?color=ABE188)](https://CRAN.R-project.org/package=parseRPDR)
 
+Pictologics: High-performance, IBSI-compliant Python library for radiomic feature extraction from medical images. [![](https://img.shields.io/pypi/dm/pictologics)](https://pypi.org/project/pictologics/)
+
 # Publications
 
 ## Guidelines and Position Papers
